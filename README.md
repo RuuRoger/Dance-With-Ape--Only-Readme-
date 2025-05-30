@@ -20,7 +20,7 @@ Follow the ape's steps and correctly repeat the sequences to progress. Each roun
 - 🐵 Charming animations  
 - 📱 Intuitive touch controls  
 
-### ⚙️ Technologies Used
+## ⚙️ Technologies Used
 🎮 Unity (Game engine)
 
 🛠 Unity version: 6000.0.35f1
