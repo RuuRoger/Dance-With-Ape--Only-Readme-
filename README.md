@@ -20,31 +20,11 @@ Follow the ape's steps and correctly repeat the sequences to progress. Each roun
 - 🐵 Charming animations  
 - 📱 Intuitive touch controls  
 
-## 🚀 How to Get Started
-
-To run this project locally, follow these steps:
-
-### 1️⃣ Clone the repository:
-```bash \ powershell
-git clone https://github.com/RuuRoger/Dance-With-Ape.git
-```
-
-### 2️⃣ Open the project in Unity:
-Launch Unity Hub
-
-Click on "Add Project" and select the root folder of the cloned repository.
-
-🛠 Recommended Unity version: 6000.0.35f1
-
 ### ⚙️ Technologies Used
 🎮 Unity (Game engine)
+
+🛠 Unity version: 6000.0.35f1
 
 💻 C#
 
 🖥 Visual Studio / VS Code (IDE)
-
-## Copyright © 2025 Roger Lozano
-
-All rights reserved.
-
-This project and its source code are the exclusive property of Roger Lozano. The use, copying, modification, distribution, or reproduction of this software, in whole or in part, is not permitted without the explicit and written consent of the rights holder.
